@@ -1,3 +1,4 @@
+
 const myEmojis = ['👨‍💻', '⛷', '🍲', '⛷', '🍲']
 
 function renderEmojis() {
